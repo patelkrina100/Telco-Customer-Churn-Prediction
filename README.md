@@ -58,7 +58,7 @@ This project analyzes customer churn for a telecommunications company using the 
 | Metric                    | Logistic Regression | Random Forest     |
 |--------------------------|---------------------|-------------------|
 | Accuracy                 | ~80%                | ~79%              |
-| ROC AUC Score            | ~0.84               | ~0.79             |
+| ROC AUC Score            | ~0.84               | ~0.82             |
 | Precision (Churn = True) | ~0.65               | ~0.63             |
 | Recall (Churn = True)    | ~0.57               | ~0.52             |
 
